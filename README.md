@@ -1,3 +1,5 @@
+# 从[IBM/trino-db2](https://github.com/IBM/trino-db2)复制修改的 | Modified by copying from [IBM/trino-db2](https://github.com/IBM/trino-db2)
+
 # Trino Db2 connector [![Actions Status](https://github.com/IBM/trino-db2/workflows/Java%20CI/badge.svg)](https://github.com/IBM/trino-db2/actions)
 
 This is a plugin for [Trino](https://trino.io/) that allow you to use IBM Db2 Jdbc Connection
